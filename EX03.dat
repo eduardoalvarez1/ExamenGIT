@@ -1,0 +1,3 @@
+JDK posee un compilador que toma nuestro código Java y valida la sintaxis, si el compilador encuentra algún error en nuestro código nos mostrará un mensaje y si todo esta bien el compilador nos creará un archivo con código byte .class, es este archivo el que será ejecutado por la JVM.
+
+Hasta el 2016 la última versión estable es Java Standard Edition 8, la cual fue lanzada en el año 2014, Java al ser un lenguaje derivado de C tiene una sintaxis muy similar a este y en cuanto a su estructura, el lenguaje Java comienza con paquetes, dentro de los cuales están las clases y dentro de estas encontramos a los métodos, constantes, variables, entre otros.
