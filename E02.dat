@@ -1,0 +1,7 @@
+Crear una rama con el nombre “EX-02”
+Dentro de “EX-02” agregar 2 archivos
+Archivo1 : Nombre E01.dat, Cotenido: 35 palabras
+Archivo2 : Nombre E02.dat, Cotenido: 40 palabras
+Nota: Debe de estar en un solo commit.
+En el repositorio solo deben de estar estas dos
+ramas, si existen otras, se deben de eliminar.
